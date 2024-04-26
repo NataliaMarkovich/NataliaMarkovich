@@ -1,8 +1,7 @@
-@@ -1,6 +1,27 @@
 ### Hi there 👋
 <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 <!--
-## Hi there 👋 My name is Natalia Markovich</a>. I'm a Software QA Automation Engineer  
+## Hi there 👋 My name is <Natalia Markovich>. I'm a Software QA Automation Engineer  
 ##### 3+ years experience in QA with Automation and Manual Testing for Web, Client/Server, Cloud Based, Desktop, and Mobile Applications. Front and Back-end REST API Testing, CI/CD, code coverage analysis, relational databases End-to-End data tests.
 <div align="center" 
 
@@ -25,5 +24,5 @@
 
 
   <!--
-**Andrei-Markovich/Andrei-Markovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NataliaMarkovich/NataliaMarkovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
