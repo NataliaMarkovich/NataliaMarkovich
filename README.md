@@ -1,13 +1,10 @@
-## Hello everybody! My name is Natalia Markovich. I'm a Software QA Automation Engineer  
+## https://media.giphy.com/media/gJiHEKslqhGDjCKj7R/giphy.gif?cid=790b7611pgh9hx58lw0o4f5cv83l16y7l9oycy7azikf4nf7&ep=v1_stickers_search&rid=giphy.gif&ct=s everybody!  
+My name is Natalia Markovich. I'm a Software QA Automation Engineer  
 ##### 3+ years experience in QA with Automation and Manual Testing for Web, Client/Server, Cloud Based, Desktop, and Mobile Applications. Front and Back-end REST API Testing, CI/CD, code coverage analysis, relational databases End-to-End data tests.
 <div align="center" 
 
-<br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjkxYjhzNHUxZmp6d2FnN3dsZmwxejV2Z2dwZTQxZXZ6b3ZyOWNwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" height="150" width="200">
-
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenUzamF0eGczN3RncHB3aXE2N28xZ2s0ZWhhbXM1dGtyN2RvbnlmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-
-   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjkxYjhzNHUxZmp6d2FnN3dsZmwxejV2Z2dwZTQxZXZ6b3ZyOWNwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" height="150" width="200">
+<br> 
+  <iframe src="https://giphy.com/embed/DyeaRFh450rTqd7yQB" width="372" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coffee-book-library-DyeaRFh450rTqd7yQB">via GIPHY</a></p>
 
  <be>
 
