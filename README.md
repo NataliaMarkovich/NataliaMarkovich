@@ -1,11 +1,11 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZmZXN5ejZnNGN0NGZkanNpbDdrNjZpcHF4NzFlYjY2NnIxenRpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/7iizg4WPsqL7UK2KAu/giphy.gif" height="150" width="100"> <div align="center">  
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVqNWdoczFkMHRmeTQxdWUxaWkyOGNkaTh1NGNvdHk5NGJyeWR2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/W63rxIYh8YvGNbkxzm/giphy.gif" height="200" width="250"> <div align="center">  
   
 ## <div id="header" align="center">
 </div>
 :earth_americas: My name is Natalia Markovich. 
 :atom: I'm a Software QA Automation Engineer.
-:atom: Experienced in QA with Automation and Manual Testing for Web, Client/Server, Cloud Based, Desktop, and Mobile Applications. Front and Back-end REST API Testing, CI/CD, code coverage analysis, relational databases End-to-End data tests.
+:atom: Experienced in QA with Automation and Manual Testing for Web, Client/Server, Cloud Based, Desktop, and Mobile Applications. Always in the process of improvement. Ready to learn more! 
 <div align="center" 
 </div>
 
